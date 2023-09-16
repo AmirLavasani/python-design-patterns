@@ -14,7 +14,6 @@ Each implementation can be found in its respective file, along with code example
 
 ## Additional Resources 📚
 
-For a more detailed explanation of the Singleton design pattern in Python and a deeper dive into these implementations, refer to my Medium article on the topic: [Design Patterns in Python: Singleton
-](https://medium.com/@amirm.lavasani/design-patterns-in-python-singleton-5095a4c14f).
+For a more detailed explanation of the Singleton design pattern in Python and a deeper dive into these implementations, refer to my Medium article on the topic: <a href="https://medium.com/@amirm.lavasani/design-patterns-in-python-singleton-5095a4c14f" target="_blank">Design Patterns in Python: Singleton</a>.
 
 Feel free to use these implementations in your projects and contribute to this repository to enhance our understanding of this important design pattern. Happy coding! 🚀
