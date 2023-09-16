@@ -76,9 +76,6 @@ def main():
     print("Is instance1 the same instance as instance2?", instance1 is instance2)
 
 
-if __name__ == "__main__":
-    import doctest
-    doctest.testmod()
-    
+if __name__ == "__main__":   
     main()
     
