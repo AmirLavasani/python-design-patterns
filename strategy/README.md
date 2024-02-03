@@ -16,6 +16,6 @@ This implementation showcases the Strategy pattern's real-world application by b
 
 ## Additional Resources 📚
 
-For an in-depth exploration of the Strategy design pattern in Python, check out my Medium article: [Design Patterns in Python: Strategy]().
+For an in-depth exploration of the Strategy design pattern in Python, check out my Medium article: [Design Patterns in Python: Strategy](https://medium.com/@amirm.lavasani/design-patterns-in-python-strategy-7b14f1c4c162).
 
 Feel free to leverage and contribute to these implementations, enhancing your mastery of this influential design pattern. Happy coding! 🎉
