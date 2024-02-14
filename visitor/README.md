@@ -16,6 +16,6 @@ This implementation includes a practical example of a Document Exporter applicat
 
 ## Additional Resources 📚
 
-For a detailed exploration of the Visitor design pattern in Python, check out my Medium article: [Design Patterns in Python: Visitor](#).
+For a detailed exploration of the Visitor design pattern in Python, check out my Medium article: [Design Patterns in Python: Visitor](https://medium.com/@amirm.lavasani/design-patterns-in-python-visitor-f20085b35d8b).
 
 Feel free to utilize and contribute to these implementations, enhancing your grasp of this versatile design pattern. Happy coding! 🧑‍💻
