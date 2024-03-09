@@ -16,6 +16,6 @@ To illustrate the capabilities of the Template Method, we implement a Web Scrape
 
 ## Additional Resources 📚
 
-For an in-depth exploration of the Template Method design pattern in Python, check out my Medium article: [Design Patterns in Python: Template Method](#).
+For an in-depth exploration of the Template Method design pattern in Python, check out my Medium article: [Design Patterns in Python: Template Method](https://medium.com/@amirm.lavasani/design-patterns-in-python-template-method-1b76fb561c4a).
 
 Feel free to use and contribute to these implementations, enhancing your grasp of this versatile design pattern. Happy coding! ✨
