@@ -16,6 +16,6 @@ This implementation demonstrates the Flyweight pattern's practical application i
 
 ## Additional Resources 📚
 
-For a deeper dive into the Flyweight design pattern in Python, delve into my Medium article: [Design Patterns in Python: Decorator](#).
+For a deeper dive into the Flyweight design pattern in Python, delve into my Medium article: [Design Patterns in Python: Flyweight](https://medium.com/@amirm.lavasani/design-patterns-in-python-flyweight-e7a7334f82b1).
 
 Feel free to utilize and contribute to these implementations, enhancing your understanding of the powerful Flyweight design pattern. Happy coding! ✨
