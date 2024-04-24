@@ -16,6 +16,6 @@ This implementation showcases the Bridge pattern's capabilities by creating a fi
 
 ## Additional Resources 📚
 
-For a deeper dive into the Bridge design pattern in Python, check out my Medium article: [Design Patterns in Python: Bridge](#).
+For a deeper dive into the Bridge design pattern in Python, check out my Medium article: [Design Patterns in Python: Bridge](https://medium.com/@amirm.lavasani/design-patterns-in-python-bridge-c34f3fcdd2eb).
 
 Feel free to utilize and contribute to these implementations, enhancing your understanding of this powerful design pattern. Happy coding! ✨
